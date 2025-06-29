@@ -1,0 +1,42 @@
+.container {
+    padding: 24px;
+}
+
+.backLink {
+    display: inline-block;
+    margin-bottom: 16px;
+    color: #0d253f;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.detailsBox {
+    display: flex;
+    gap: 24px;
+    margin-bottom: 24px;
+}
+
+.poster {
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.info {
+    flex: 1;
+}
+
+.subnav {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 16px;
+}
+
+.subnav a {
+    color: #0d253f;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.subnav a:hover {
+    text-decoration: underline; }

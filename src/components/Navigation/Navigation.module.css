@@ -1,0 +1,21 @@
+.navContainer {
+    top: 0;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    padding: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.link {
+    padding-left: 20px;
+    margin-right: 24px;
+    text-decoration: none;
+    color: #0d253f;
+} 
+
+.activeLink {
+    padding-left: 20px;
+    margin-right: 24px;
+    color: red;
+    text-decoration: none; } 
